@@ -99,6 +99,7 @@ class Ui_MainWindow(object):
         self.f2.clear()
         self.f3.clear()
         self.data.clear()
+        self.t=0
         self.tt.clear()
 
         
